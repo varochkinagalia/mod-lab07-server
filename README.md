@@ -6,7 +6,7 @@
 
 Срок выполнения задания:
 
-**до 1 мая** ![Relative date](https://img.shields.io/date/1651438800)  
+**до 30.04** ![Relative date](https://img.shields.io/date/1682963986)  
 
 
 ## Lab07. Моделирование СМО: "клиент-сервер"
